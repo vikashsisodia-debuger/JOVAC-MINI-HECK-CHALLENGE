@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIKASH-SISODIA - Build Smarter, Launch Faster</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-icon">&#9670;</span> VIKASH
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="product.html">Product</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <a href="product.html" class="btn btn-nav">Get Started</a>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+    <section class="hero">
+        <div class="hero-content">
+            <p class="hero-label">&#128640; Launching 2025</p>
+            <h1 class="hero-title">Build Smarter.<br>Launch <span class="highlight">Faster.</span></h1>
+            <p class="hero-subtitle">
+                NovaBuild is the all-in-one platform for startups and developers to plan, build,
+                and ship their products — without the mess.
+            </p>
+            <div class="hero-btns">
+                <a href="product.html" class="btn btn-primary">Explore Product</a>
+                <a href="about.html" class="btn btn-outline">Learn More</a>
+            </div>
+            <p class="hero-note">&#10003; Free to start &nbsp;&nbsp; &#10003; No credit card needed &nbsp;&nbsp; &#10003; Cancel anytime</p>
+        </div>
+        <div class="hero-visual">
+            <div class="hero-card">
+                <div class="hcard-top">
+                    <span class="dot red"></span>
+                    <span class="dot yellow"></span>
+                    <span class="dot green"></span>
+                </div>
+                <div class="hcard-body">
+                    <div class="hcard-line short"></div>
+                    <div class="hcard-line long"></div>
+                    <div class="hcard-line medium"></div>
+                    <div class="hcard-block">
+                        <div class="hcard-stat">
+                            <span class="stat-num">98%</span>
+                            <span class="stat-label">Uptime</span>
+                        </div>
+                        <div class="hcard-stat">
+                            <span class="stat-num">12k+</span>
+                            <span class="stat-label">Users</span>
+                        </div>
+                        <div class="hcard-stat">
+                            <span class="stat-num">4.9 &#9733;</span>
+                            <span class="stat-label">Rating</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="features">
+        <div class="section-container">
+            <p class="section-label">What We Offer</p>
+            <h2 class="section-title">Everything you need to ship fast</h2>
+            <p class="section-subtitle">
+                From idea to deployment, NovaBuild gives your team the right tools at every step.
+            </p>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="card-icon">&#128736;</div>
+                    <h3>Smart Builder</h3>
+                    <p>Drag and drop your way to a working prototype in minutes. No coding required for basic flows.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">&#128202;</div>
+                    <h3>Live Analytics</h3>
+                    <p>Track user behavior, engagement, and conversions in real time with our built-in dashboard.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">&#128274;</div>
+                    <h3>Secure by Default</h3>
+                    <p>Every project is protected with end-to-end encryption and role-based access controls.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">&#9881;</div>
+                    <h3>Team Collaboration</h3>
+                    <p>Invite teammates, assign tasks, and review changes — all inside one shared workspace.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="benefits">
+        <div class="section-container">
+            <div class="benefits-wrapper">
+                <div class="benefits-text">
+                    <p class="section-label">Why NovaBuild?</p>
+                    <h2 class="section-title">Built for teams who move fast</h2>
+                    <p class="benefits-desc">
+                        We designed NovaBuild after struggling with existing tools that were either too
+                        complex or too limited. Our platform grows with you — from solo projects to full
+                        team deployments.
+                    </p>
+                    <ul class="benefits-list">
+                        <li>
+                            <span class="benefit-icon">&#10003;</span>
+                            <div>
+                                <strong>Save 10+ hours per week</strong>
+                                <p>Automate repetitive tasks and focus on what actually matters.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="benefit-icon">&#10003;</span>
+                            <div>
+                                <strong>Works with your existing stack</strong>
+                                <p>Integrates with GitHub, Figma, Slack, and 50+ tools you already use.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="benefit-icon">&#10003;</span>
+                            <div>
+                                <strong>Scales as you grow</strong>
+                                <p>Start free, upgrade when ready. No complicated migrations needed.</p>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <a href="contact.html" class="btn btn-primary">Talk to Us</a>
+                </div>
+                <div class="benefits-visual">
+                    <div class="stats-card">
+                        <div class="stat-row">
+                            <div class="stat-box">
+                                <span class="big-stat">3x</span>
+                                <span>Faster shipping</span>
+                            </div>
+                            <div class="stat-box">
+                                <span class="big-stat">50+</span>
+                                <span>Integrations</span>
+                            </div>
+                        </div>
+                        <div class="stat-row">
+                            <div class="stat-box">
+                                <span class="big-stat">12k</span>
+                                <span>Active users</span>
+                            </div>
+                            <div class="stat-box">
+                                <span class="big-stat">99%</span>
+                                <span>Satisfaction rate</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="footer-container">
+
+            <!-- Footer Brand -->
+            <div class="footer-brand">
+                <div class="nav-logo" style="color: white; font-size: 1.4rem;">
+                    <span class="logo-icon">&#9670;</span> VIKASH
+                </div>
+                <p>Making product development simpler and faster for everyone.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Pages</h4>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="product.html">Product</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <h4>Contact</h4>
+                <p>&#9993; vikashsisodia2004@gmail.com</p>
+                <p>&#128222; +91 7818079151</p>
+                <p>&#128205; UtterPredesh, India</p>
+            </div>
+            <div class="footer-social">
+                <h4>Follow Us</h4>
+                <div class="social-icons">
+                    <a href="#" class="social-link">&#127760; Website</a>
+                    <a href="#" class="social-link">&#128241; Twitter</a>
+                    <a href="#" class="social-link">&#128188; LinkedIn</a>
+                    <a href="#" class="social-link">&#128025; GitHub</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 NovaBuild. All rights reserved. &nbsp;|&nbsp; Made with &#10084; for B.Tech project</p>
+        </div>
+    </footer>
+</body>
+</html>
